@@ -17,7 +17,6 @@ My focus is designing **resilient backend infrastructure** and **anti-DDoS / ant
 I enjoy building tools that simplify life for developers and experimenting with system architecture.
 
 **Age:** 19  
-**Pseudo location:** Zurich, Switzerland  
 
 ---
 
